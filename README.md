@@ -55,12 +55,16 @@ Benefits of choosing the above algorithm:
 **TESTING/VERIFICATION OVERVIEW**
 
 Verification for the SRT Radix-4 Divider includes rigorous functional testing with known inputs, thorough examination of special cases, such as division by zero and overflow conditions, validation for both signed and unsigned scenarios, and verification of the termination mechanism through testing the flush mechanism. 
+
 All the commands are executed using the Bluespec's bsc compiler, the step by step command is as follows:
-#The steps involved in the testing stage is as follows:
+
 
 bsc -verilog srt_radix4_divider_64.bsv
+
 bsc -verilog tb_srt_radix4_divider_64.bsv
+
 bsc -o sim -e mk_tb_srt_radix4_divider_64 mk_tb_srt_radix4_divider_64.v
+
 ./sim
 
 The results obtained are as follows:
