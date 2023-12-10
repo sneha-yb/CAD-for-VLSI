@@ -74,6 +74,19 @@ The results obtained are as follows:
 
 YOSYS tool is used to perform the synthesis and we provide the tool with our rtl code.
 
+The instructions used are as follows:
+
+yosys
+
+read_verilog mk_srt_radix4_divider.v
+
+hierarchy -check -top mk_srt_radix4_divider
+proc; opt; fsm; opt; memory; opt
+
+synth -top mk_srt_radix4_divider
+
+write_verilog synth.v
+
 The results are follows:
 
 ![WhatsApp Image 2023-12-10 at 10 37 34 AM](https://github.com/sneha-yb/CAD-for-VLSI/assets/113349234/66953f9c-137f-475e-8b7e-fbb8adc51cc7)
