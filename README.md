@@ -81,6 +81,7 @@ yosys
 read_verilog mk_srt_radix4_divider.v
 
 hierarchy -check -top mk_srt_radix4_divider
+
 proc; opt; fsm; opt; memory; opt
 
 synth -top mk_srt_radix4_divider
