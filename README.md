@@ -96,94 +96,10 @@ The results are follows:
 ![WhatsApp Image 2023-12-10 at 10 37 42 AM](https://github.com/sneha-yb/CAD-for-VLSI/assets/113349234/fa23cc74-291b-4396-9ea8-e25624149a31)
 
 **SYNTHESIS RESULTS**
-
-
-=== mk_srt_radix4_divider ===
-
-Number of public wires:         621
-Number of public wire bits:     816  
-Number of memories:               0
-Number of memory bits:            0
-Number of processes:              0
-Number of cells:               7379
-sky130_fd_sc_hd__a2111o_2       6
-sky130_fd_sc_hd__a211o_2       63
- sky130_fd_sc_hd__a211oi_2       6
- sky130_fd_sc_hd__a21bo_2       30
- sky130_fd_sc_hd__a21boi_2      14
-     sky130_fd_sc_hd__a21o_2       342
-     sky130_fd_sc_hd__a21oi_2      167
-     sky130_fd_sc_hd__a221o_2      187
-     sky130_fd_sc_hd__a221oi_2       1
-     sky130_fd_sc_hd__a22o_2       346
-     sky130_fd_sc_hd__a22oi_2        7
-     sky130_fd_sc_hd__a2bb2o_2      37
-     sky130_fd_sc_hd__a311o_2       39
-     sky130_fd_sc_hd__a311oi_2       1
-     sky130_fd_sc_hd__a31o_2       157
-     sky130_fd_sc_hd__a31oi_2        9
-     sky130_fd_sc_hd__a32o_2        47
-     sky130_fd_sc_hd__a41o_2         3
-     sky130_fd_sc_hd__a41oi_2        1
-     sky130_fd_sc_hd__and2_2       379
-     sky130_fd_sc_hd__and2b_2      104
-     sky130_fd_sc_hd__and3_2       120
-     sky130_fd_sc_hd__and3b_2       12
-     sky130_fd_sc_hd__and4_2        15
-     sky130_fd_sc_hd__and4b_2        5
-     sky130_fd_sc_hd__and4bb_2       1
-     sky130_fd_sc_hd__buf_1        727
-     sky130_fd_sc_hd__buf_2          3
-     sky130_fd_sc_hd__conb_1         3
-     sky130_fd_sc_hd__dfxtp_2      608
-     sky130_fd_sc_hd__inv_2        214
-     sky130_fd_sc_hd__mux2_2       885
-     sky130_fd_sc_hd__mux4_2        10
-     sky130_fd_sc_hd__nand2_2      392
-     sky130_fd_sc_hd__nand2b_2       3
-     sky130_fd_sc_hd__nand3_2       13
-     sky130_fd_sc_hd__nand3b_2       6
-     sky130_fd_sc_hd__nand4_2        2
-     sky130_fd_sc_hd__nand4b_2       3
-     sky130_fd_sc_hd__nand4bb_2      1
-     sky130_fd_sc_hd__nor2_2       333
-     sky130_fd_sc_hd__nor3_2        13
-     sky130_fd_sc_hd__nor3b_2        3
-     sky130_fd_sc_hd__nor4_2         3
-     sky130_fd_sc_hd__o2111a_2       4
-     sky130_fd_sc_hd__o211a_2      289
-     sky130_fd_sc_hd__o211a_4        1
-     sky130_fd_sc_hd__o211ai_2      10
-     sky130_fd_sc_hd__o21a_2       237
-     sky130_fd_sc_hd__o21ai_2      158
-     sky130_fd_sc_hd__o21ba_2       21
-     sky130_fd_sc_hd__o21bai_2      10
-     sky130_fd_sc_hd__o221a_2      136
-     sky130_fd_sc_hd__o221ai_2       2
-     sky130_fd_sc_hd__o22a_2        43
-     sky130_fd_sc_hd__o22ai_2        4
-     sky130_fd_sc_hd__o2bb2a_2      20
-     sky130_fd_sc_hd__o311a_2       26
-     sky130_fd_sc_hd__o311ai_2       1
-     sky130_fd_sc_hd__o31a_2        47
-     sky130_fd_sc_hd__o31ai_2       16
-     sky130_fd_sc_hd__o32a_2         6
-     sky130_fd_sc_hd__o41a_2        14
-     sky130_fd_sc_hd__or2_2        378
-     sky130_fd_sc_hd__or2_4          1
-     sky130_fd_sc_hd__or2b_2        68
-     sky130_fd_sc_hd__or3_2         82
-     sky130_fd_sc_hd__or3_4          7
-     sky130_fd_sc_hd__or3b_2        26
-     sky130_fd_sc_hd__or4_2         81
-     sky130_fd_sc_hd__or4_4         46
-     sky130_fd_sc_hd__or4b_2        15
-     sky130_fd_sc_hd__or4b_4         3
-     sky130_fd_sc_hd__xnor2_2      180
-     sky130_fd_sc_hd__xor2_2       126
-<img width="368" alt="Screenshot 2023-12-11 at 10 55 32 AM" src="https://github.com/sneha-yb/CAD-for-VLSI/assets/113349234/d58217f8-575f-4e85-ae2c-0ac56d773e4d">
-<img width="280" alt="Screenshot 2023-12-11 at 10 55 55 AM" src="https://github.com/sneha-yb/CAD-for-VLSI/assets/113349234/5c992425-1ec7-448b-a290-706807ead506">
-<img width="535" alt="Screenshot 2023-12-11 at 10 56 30 AM" src="https://github.com/sneha-yb/CAD-for-VLSI/assets/113349234/69e3fd68-3275-4a5a-842f-b9f4d8830d47">
+     
+# <img width="368" alt="Screenshot 2023-12-11 at 10 55 32 AM" src="https://github.com/sneha-yb/CAD-for-VLSI/assets/113349234/d58217f8-575f-4e85-ae2c-0ac56d773e4d">
+# <img width="280" alt="Screenshot 2023-12-11 at 10 55 55 AM" src="https://github.com/sneha-yb/CAD-for-VLSI/assets/113349234/5c992425-1ec7-448b-a290-706807ead506">
+# <img width="535" alt="Screenshot 2023-12-11 at 10 56 30 AM" src="https://github.com/sneha-yb/CAD-for-VLSI/assets/113349234/69e3fd68-3275-4a5a-842f-b9f4d8830d47">
 
    Chip area for module '\mk_srt_radix4_divider': **71679.996800**
 
